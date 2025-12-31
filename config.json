@@ -1,12 +1,7 @@
 {
   "enable": true,
-  "version": "18.1.0",
   "message": "Meta Ads Editor remote enabled",
   "interval": 600,
   "allowEdit": true,
-  "allowReset": true,
-  "allowedDomains": [
-    "adsmanager.facebook.com",
-    "business.facebook.com"
-  ]
+  "allowReset": true
 }
