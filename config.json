@@ -1,5 +1,5 @@
 {
-  "enable": true,
+  "enable": false,
   "message": "Meta Ads Editor remote enabled",
   "interval": 600,
   "allowEdit": true,
